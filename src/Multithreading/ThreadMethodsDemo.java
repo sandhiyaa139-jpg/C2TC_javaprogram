@@ -1,6 +1,4 @@
 package Multithreading;
-
-
 	public class ThreadMethodsDemo {
 		//Program to demonstrate Thread class methods
 		
